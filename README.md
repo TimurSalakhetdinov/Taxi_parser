@@ -12,9 +12,10 @@ This project automates the process of generating car registration numbers, fetch
 ## Installation
 
 1. **Clone the Repository**: First, clone the repository to your local machine using:
-   ```bash
-   git clone <repository-url>
-   cd <project-directory>
+```bash
+git clone <repository-url>
+cd <project-directory>
+```
 
 2. Set Up a Virtual Environment (Recommended): To avoid any conflicts with existing Python packages, set up a virtual environment:
 ```
