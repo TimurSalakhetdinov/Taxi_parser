@@ -57,4 +57,4 @@ Be mindful of the API's terms of service, especially concerning rate limits and 
 
 ## License
 
-This project is open-sourced under the MIT License. See the LICENSE file for more details.
+The tools in this repository are provided under an open license for educational use. The authors are not liable for any misuse or damage.
