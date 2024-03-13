@@ -1,11 +1,11 @@
-# Car Information Fetcher
+# Taxi Information Fetcher
 
 ## Overview
-This project automates the process of generating car registration numbers, fetching detailed information for each number via an API, formatting the data for database insertion, and managing API rate limits with randomized delays. It's designed to handle patterns like 'У289ВВ77', fetching car information and processing it for storage or further analysis.
+This project automates the process of generating car registration numbers, fetching taxi license information for each number via an API, formatting the data for database insertion, and managing API rate limits with randomized delays. It's designed to handle patterns like 'У289ВВ77', fetching car information and processing it for storage or further analysis.
 
 ## Features
 - Dynamically generates car registration numbers based on predefined patterns.
-- Fetches car information using an external API and processes the data.
+- Fetches taxi information using an external API and processes the data.
 - Formats the data for easy insertion into a database or for further analysis.
 - Implements randomized delays between API calls to adhere to API rate limits and avoid overloading the server.
 
