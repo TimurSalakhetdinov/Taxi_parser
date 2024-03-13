@@ -17,13 +17,13 @@ git clone <repository-url>
 cd <project-directory>
 ```
 
-2. Set Up a Virtual Environment (Recommended): To avoid any conflicts with existing Python packages, set up a virtual environment:
+2. **Set Up a Virtual Environment (Recommended)**: To avoid any conflicts with existing Python packages, set up a virtual environment:
 ```
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 ```
 
-3. Install Dependencies: Install all required dependencies using the following command:
+3. **Install Dependencies**: Install all required dependencies using the following command:
 ```
 pip install -r requirements.txt
 ```
